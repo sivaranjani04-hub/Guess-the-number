@@ -6,13 +6,6 @@ The user tries to guess a random number between 1 and 10. The game responds with
 
 ---
 
-## 🚀 Demo
-
-🔗 [Live Demo](https://sivaranjani04-hub.github.io/Guess-the-number/)  
-(Enable GitHub Pages from the repository settings to make this work)
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML
